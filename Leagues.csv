@@ -1,0 +1,561 @@
+Country,LeagueName,LeagueId,isLeague,GroupNameUrl
+Africa,Africa Cup of Nations Qualification,1059,Y,group-a
+Africa,Africa Cup of Nations Qualification,1059,Y,group-b
+Africa,Africa Cup of Nations Qualification,1059,Y,group-c
+Africa,Africa Cup of Nations Qualification,1059,Y,group-d
+Africa,Africa Cup of Nations Qualification,1059,Y,group-e
+Africa,Africa Cup of Nations Qualification,1059,Y,group-f
+Africa,CAF Champions League,1513,Y,group-a
+Africa,CAF Champions League,1513,Y,group-b
+Africa,CAF Champions League,1513,Y,group-c
+Africa,CAF Champions League,1513,Y,group-d
+Africa,CAF Confederations Cup,1635,Y,group-a
+Africa,CAF Confederations Cup,1635,Y,group-b
+Africa,CAF Confederations Cup,1635,Y,group-c
+Africa,CAF Confederations Cup,1635,Y,group-d
+Africa,WC Qualification Africa,1048,Y,group-a
+Africa,WC Qualification Africa,1048,Y,group-b
+Africa,WC Qualification Africa,1048,Y,group-c
+Africa,WC Qualification Africa,1048,Y,group-d
+Africa,WC Qualification Africa,1048,Y,group-e
+Africa,WC Qualification Africa,1048,Y,group-f
+Africa,WC Qualification Africa,1048,Y,group-g
+Africa,WC Qualification Africa,1048,Y,group-h
+Africa,WC Qualification Africa,1048,Y,group-i
+Africa,WC Qualification Africa,1048,Y,group-j
+Albania,Superliga,1064,Y,
+Algeria,Ligue 1,1068,Y,
+Angola,Girabola,1073,Y,
+Argentina,Copa Argentina,2129,N,
+Argentina,Liga Profesional Argentina,1081,Y,
+Argentina,Liga Profesional Argentina,1081,Y,1st-phase
+Argentina,Liga Profesional Argentina,1081,Y,2nd-phase
+Argentina,Liga Profesional Argentina,1081,Y,group-1
+Argentina,Liga Profesional Argentina,1081,Y,group-2
+Argentina,Liga Profesional Argentina,1081,Y,group-3
+Argentina,Liga Profesional Argentina,1081,Y,group-4
+Argentina,Liga Profesional Argentina,1081,Y,group-a
+Argentina,Liga Profesional Argentina,1081,Y,group-b
+Argentina,Prim B Metro,1077,Y,apertura
+Argentina,Prim B Metro,1077,Y,clausura
+Argentina,Primera Nacional,1078,Y,
+Argentina,Primera Nacional,1078,Y,regular-season
+Argentina,Torneo Federal A,1076,Y,
+Armenia,Premier League,1082,Y,
+Asia,AFC Asian Cup,1515,Y,group-a
+Asia,AFC Asian Cup,1515,Y,group-b
+Asia,AFC Asian Cup,1515,Y,group-c
+Asia,AFC Asian Cup,1515,Y,group-d
+Asia,AFC Asian Cup,1515,Y,group-e
+Asia,AFC Asian Cup,1515,Y,group-f
+Asia,AFC Challenge Cup,1021,N,
+Asia,AFC Champions League,1022,Y,
+Asia,AFC Champions League,1022,Y,group-a
+Asia,AFC Champions League,1022,Y,group-b
+Asia,AFC Champions League,1022,Y,group-c
+Asia,AFC Champions League,1022,Y,group-d
+Asia,AFC Champions League,1022,Y,group-e
+Asia,AFC Champions League,1022,Y,group-f
+Asia,AFC Champions League,1022,Y,group-g
+Asia,AFC Champions League,1022,Y,group-h
+Asia,AFC Champions League,1022,Y,group-i
+Asia,AFC Champions League,1022,Y,group-j
+Asia,AFC Cup,1023,Y,group-a
+Asia,AFC Cup,1023,Y,group-b
+Asia,AFC Cup,1023,Y,group-c
+Asia,AFC Cup,1023,Y,group-d
+Asia,AFC Cup,1023,Y,group-e
+Asia,AFC Cup,1023,Y,group-f
+Asia,AFC Cup,1023,Y,group-g
+Asia,AFC Cup,1023,Y,group-h
+Asia,AFC Cup,1023,Y,group-i
+Asia,AFF Championship,1025,N,
+Asia,WC Qualification Asia,1049,Y,
+Asia,WC Qualification Asia,1049,Y,group-a
+Asia,WC Qualification Asia,1049,Y,group-b
+Asia,WC Qualification Asia,1049,Y,group-c
+Asia,WC Qualification Asia,1049,Y,group-d
+Asia,WC Qualification Asia,1049,Y,group-e
+Asia,WC Qualification Asia,1049,Y,group-f
+Asia,WC Qualification Asia,1049,Y,group-g
+Asia,WC Qualification Asia,1049,Y,group-h
+Australia,A-League,1086,Y,regular-season
+Australia,Capital Territory NPL,1788,Y,regular-season
+Australia,New South Wales NPL,1087,Y,regular-season
+Australia,Northern NSW NPL,1608,N,
+Australia,Queensland NPL,2002,Y,regular-season
+Australia,South Australia NPL,1085,Y,regular-season
+Australia,Victoria NPL,2670,Y,regular-season
+Australia,Western Australia NPL,1088,Y,regular-season
+Austria,Bundesliga,1093,Y,championship-round
+Austria,Bundesliga,1093,Y,regular-season
+Austria,Bundesliga,1093,Y,relegation-round
+Austria,Cup,1091,N,
+Austria,Regionalliga,1092,Y,mitte
+Austria,Regionalliga,1092,Y,ost
+Austria,Regionalliga,1092,Y,salzburg
+Austria,Regionalliga,1092,Y,salzburg---2nd-phase
+Austria,Regionalliga,1092,Y,tirol
+Austria,Regionalliga,1092,Y,tirol---2nd-phase
+Austria,Regionalliga,1092,Y,vorarlberg
+Austria,Regionalliga,1092,Y,vorarlberg---2nd-phase
+Austria,Regionalliga,1092,Y,west
+Azerbaijan,Premyer Liqa,1094,Y,
+Bangladesh,Premier League,1098,Y,
+Belarus,1. Division,1101,Y,
+Belarus,Coppa,1775,N,
+Belarus,Premier League,1099,Y,
+Belgium,Cup,1103,N,
+Belgium,First Division A,1102,Y,regular-season
+Belgium,Challenger Pro League,1104,Y,promotion-round
+Belgium,Challenger Pro League,1104,Y,regular-season
+Belgium,Challenger Pro League,1104,Y,relegation-round
+Belgium,Super Cup,1622,N,
+Bolivia,Primera División,1109,Y,
+Bosnia Herzegovina,Premijer Liga,1111,Y,
+Brazil,Copa do Brasil,1521,N,
+Brazil,Serie A,1141,Y,
+Brazil,Serie B,1117,Y,
+Brazil,Serie C,1121,Y,
+Brazil,Serie C,1121,Y,regular-season
+Brazil,Serie D,1122,Y,group-1
+Bulgaria,Cup,1795,N,
+Bulgaria,First League,1154,Y,regular-season
+Bulgaria,Second League,1151,Y,
+Cambodia,C-League,2014,N,
+Cameroon,Elite One,1155,Y,
+Cameroon,Elite One,1155,Y,group-a
+Cameroon,Elite One,1155,Y,group-b
+Canada,Canadian Championship,1738,N,
+Canada,Canadian Soccer League,1156,Y,regular-season
+Canada,PCSL,1157,Y,
+Chile,Copa Chile,1766,N,
+Chile,Primera B,1160,Y,regular-season
+Chile,Primera División,1159,Y,
+Chile,Super Cup,2384,N,
+China Pr,China League One,1162,Y,2nd-phase
+China Pr,China League One,1162,Y,group-a
+China Pr,China League One,1162,Y,group-b
+China Pr,China League One,1162,Y,group-c
+China Pr,CSL,1163,Y,group-a
+China Pr,CSL,1163,Y,group-b
+China Pr,FA Cup,2244,N,
+Colombia,Copa Colombia,1904,Y,group-a
+Colombia,Copa Colombia,1904,Y,group-b
+Colombia,Copa Colombia,1904,Y,group-c
+Colombia,Copa Colombia,1904,Y,group-d
+Colombia,Copa Colombia,1904,Y,group-e
+Colombia,Copa Colombia,1904,Y,group-f
+Colombia,Copa Colombia,1904,Y,group-g
+Colombia,Primera A,1167,Y,apertura
+Colombia,Primera A,1167,Y,clausura
+Colombia,Primera B,2141,Y,apertura
+Colombia,Primera B,2141,Y,clausura
+Colombia,Primera B,2141,Y,group-a
+Colombia,Primera B,2141,Y,group-b
+CONCAF,Concacaf Gold Cup,1037,N,
+CONCAF,WC Qualification CONCACAF,1050,Y,group-a
+CONCAF,WC Qualification CONCACAF,1050,Y,group-b
+CONCAF,WC Qualification CONCACAF,1050,Y,group-c
+CONCAF,WC Qualification CONCACAF,1050,Y,group-d
+CONCAF,WC Qualification CONCACAF,1050,Y,group-e
+CONCAF,WC Qualification CONCACAF,1050,Y,group-f
+Costa Rica,Primera División,1169,Y,clausura
+Costa Rica,Primera División,1169,Y,group-a
+Costa Rica,Primera División,1169,Y,group-b
+Croatia,HNL,1172,Y,
+Croatia,Cup,1173,N,
+Croatia,First NL,1175,Y,
+Croatia,First NL,1175,Y,regular-season
+Cyprus,1. Division,1179,Y,regular-season
+Cyprus,Cup,1839,N,
+Czech Republic,3. liga,1180,Y,cfl-a
+Czech Republic,3. liga,1180,Y,cfl-b
+Czech Republic,3. liga,1180,Y,msfl
+Czech Republic,Cup,1522,N,
+Czech Republic,Czech Liga,1184,Y,regular-season
+Czech Republic,FNL,1183,Y,
+Denmark,1. Division,1189,Y,promotion-round
+Denmark,1. Division,1189,Y,regular-season
+Denmark,1. Division,1189,Y,relegation-round
+Denmark,2. Division,1187,Y,promotion-group
+Denmark,2. Division,1187,Y,regular-season
+Denmark,2. Division,1187,Y,relegation-round
+Denmark,DBU Pokalen,1525,N,
+Denmark,Superliga,1185,Y,championship-round
+Denmark,Superliga,1185,Y,regular-season
+Denmark,Superliga,1185,Y,relegation-round
+Ecuador,Liga Pro,1191,Y,1st-round
+Ecuador,Liga Pro,1191,Y,2nd-round
+Egypt,Premier League,1193,Y,
+England,Championship,1205,Y,regular-season
+England,EFL Trophy,1200,N,
+England,FA Cup,1198,N,
+England,FA Trophy,1196,N,
+England,League Cup,1199,N,
+England,League One,1206,Y,regular-season
+England,League Two,1197,Y,regular-season
+England,National League,1203,Y,regular-season
+England,Premier League,1204,Y,
+Estonia,Esiliiga A,1207,Y,
+Estonia,Esiliiga A,1207,Y,regular-season
+Estonia,Meistriliiga,1209,Y,
+Estonia,Meistriliiga,1209,Y,regular-season
+Europe,UEFA Nations League,4529,N,
+Europe,EC Qualification,1531,Y,group-a
+Europe,EC Qualification,1531,Y,group-b
+Europe,EC Qualification,1531,Y,group-c
+Europe,EC Qualification,1531,Y,group-d
+Europe,EC Qualification,1531,Y,group-e
+Europe,EC Qualification,1531,Y,group-f
+Europe,EC Qualification,1531,Y,group-g
+Europe,EC Qualification,1531,Y,group-h
+Europe,EC Qualification,1531,Y,group-i
+Europe,EC Qualification,1531,Y,group-j
+Europe,European Championship,1001,Y,
+Europe,European Championship,1001,Y,group-a
+Europe,European Championship,1001,Y,group-b
+Europe,European Championship,1001,Y,group-c
+Europe,European Championship,1001,Y,group-d
+Europe,European Championship,1001,Y,group-e
+Europe,European Championship,1001,Y,group-f
+Europe,UEFA Champions League,1005,Y,group-a
+Europe,UEFA Champions League,1005,Y,group-b
+Europe,UEFA Champions League,1005,Y,group-c
+Europe,UEFA Champions League,1005,Y,group-d
+Europe,UEFA Champions League,1005,Y,group-e
+Europe,UEFA Champions League,1005,Y,group-f
+Europe,UEFA Champions League,1005,Y,group-g
+Europe,UEFA Champions League,1005,Y,group-h
+Europe,UEFA Europa League,1007,Y,group-a
+Europe,UEFA Europa League,1007,Y,group-b
+Europe,UEFA Europa League,1007,Y,group-c
+Europe,UEFA Europa League,1007,Y,group-d
+Europe,UEFA Europa League,1007,Y,group-e
+Europe,UEFA Europa League,1007,Y,group-f
+Europe,UEFA Europa League,1007,Y,group-g
+Europe,UEFA Europa League,1007,Y,group-h
+Europe,UEFA Super Cup,1603,N,
+Europe,UEFA U21 Championship,2107,Y,group-a
+Europe,UEFA U21 Championship,2107,Y,group-b
+Europe,UEFA U21 Championship,2107,Y,group-c
+Europe,UEFA U21 Championship,2107,Y,group-d
+Europe,WC Qualification Europe,1051,Y,group-a
+Europe,WC Qualification Europe,1051,Y,group-b
+Europe,WC Qualification Europe,1051,Y,group-c
+Europe,WC Qualification Europe,1051,Y,group-d
+Europe,WC Qualification Europe,1051,Y,group-e
+Europe,WC Qualification Europe,1051,Y,group-f
+Europe,WC Qualification Europe,1051,Y,group-g
+Europe,WC Qualification Europe,1051,Y,group-h
+Europe,WC Qualification Europe,1051,Y,group-i
+Europe,WC Qualification Europe,1051,Y,group-j
+Finland,Kakkonen,1213,Y,group-a
+Finland,Kakkonen,1213,Y,group-b
+Finland,Kakkonen,1213,Y,group-c
+Finland,Suomen Cup,1214,N,
+Finland,Veikkausliiga,1529,Y,championship-round
+Finland,Veikkausliiga,1529,Y,regular-season
+Finland,Veikkausliiga,1529,Y,relegation-round
+Finland,Ykkönen,1530,Y,championship-round
+Finland,Ykkönen,1530,Y,regular-season
+Finland,Ykkönen,1530,Y,relegation-round
+France,Coupe de France,1218,N,
+France,Ligue 1,1221,Y,
+France,Ligue 2,1217,Y,regular-season
+France,National 1,1220,Y,
+France,Trophée des Champions,1633,N,
+Georgia,Erovnuli Liga,1224,Y,
+Germany,2. Bundesliga,1225,Y,
+Germany,3. Liga,1230,Y,
+Germany,Bundesliga,1229,Y,
+Germany,DFB Pokal,1226,N,
+Germany,Oberliga,1228,Y,baden-wurttemberg
+Germany,Oberliga,1228,Y,bayern-nord
+Germany,Oberliga,1228,Y,bayern-sud
+Germany,Oberliga,1228,Y,bremen
+Germany,Oberliga,1228,Y,hamburg
+Germany,Oberliga,1228,Y,hessen
+Germany,Oberliga,1228,Y,mittelrhein
+Germany,Oberliga,1228,Y,niederrhein
+Germany,Oberliga,1228,Y,niedersachsen
+Germany,Oberliga,1228,Y,nord
+Germany,Oberliga,1228,Y,nordost-nord
+Germany,Oberliga,1228,Y,nordost-sud
+Germany,Oberliga,1228,Y,rh-pf-s---promotion-round
+Germany,Oberliga,1228,Y,rh-pf-s---relegation-round
+Germany,Oberliga,1228,Y,schleswig-holstein
+Germany,Oberliga,1228,Y,sud
+Germany,Oberliga,1228,Y,westfalen
+Germany,Regionalliga,1227,Y,bayern
+Germany,Regionalliga,1227,Y,nord
+Germany,Regionalliga,1227,Y,nordost
+Germany,Regionalliga,1227,Y,sudwest
+Germany,Regionalliga,1227,Y,west
+Germany,Super Cup,1620,N,
+Ghana,Premier League,1231,Y,
+Greece,Cup,1233,N,
+Greece,Football League,1235,Y,
+Greece,Super League 1,1232,Y,championship-round
+Greece,Super League 1,1232,Y,regular-season
+Greece,Super League 1,1232,Y,relegation-round
+Guatemala,Liga Nacional,1237,Y,apertura
+Guatemala,Liga Nacional,1237,Y,clausura
+Haiti,Ligue Haïtienne,1240,Y,closing-series
+Haiti,Ligue Haïtienne,1240,Y,opening-series
+Honduras,Liga Nacional,1242,Y,
+Honduras,Liga Nacional,1242,Y,apertura
+Hungary,Magyar Kupa,1246,N,
+Hungary,NB I,1248,Y,
+Hungary,NB II,1245,Y,
+Iceland,League Cup,1540,N,
+Iceland,Úrvalsdeild,1249,Y,
+India,I-League,1250,Y,
+India,I-League,1250,Y,championship-round
+India,I-League,1250,Y,regular-season
+India,I-League,1250,Y,relegation-round
+India,Indian Super League,2556,Y,regular-season
+Indonesia,Liga 1,1252,Y,
+Indonesia,Piala Indonesia,5281,N,
+International,Africa Cup of Nations Qualification,18931,N,
+International,African Nations Championship,1967,N,
+International,CECAFA Senior Challenge Cup,1688,N,
+International,Concacaf Champions League,1011,N,
+International,Confederations Cup,1038,Y,group-a
+International,Confederations Cup,1038,Y,group-b
+International,FIFA Club World Cup,1041,N,
+International,World Cup,1056,Y,group-a
+International,World Cup,1056,Y,group-b
+International,World Cup,1056,Y,group-c
+International,World Cup,1056,Y,group-d
+International,World Cup,1056,Y,group-e
+International,World Cup,1056,Y,group-f
+International,World Cup,1056,Y,group-g
+International,World Cup,1056,Y,group-h
+International Friendlies,Friendlies,1535,N,
+Ireland,FAI Cup,1255,N,
+Ireland,FAI President's Cup,2499,N,
+Ireland,First Division,1256,Y,regular-season
+Ireland,League Cup,1257,N,
+Ireland,Premier Division,1258,Y,
+Italy,Coppa Italia,1264,N,
+Italy,Lega Pro 2,1553,N,
+Italy,Serie A,1269,Y,
+Italy,Serie B,1265,Y,regular-season
+Italy,Serie C,1551,Y,girone-a
+Italy,Serie C,1551,Y,girone-b
+Italy,Serie C,1551,Y,girone-c
+Italy,Serie C,1551,Y,supercoppa-lega-finals
+Italy,Serie D,1263,Y,group-a
+Italy,Serie D,1263,Y,group-b
+Italy,Serie D,1263,Y,group-c
+Italy,Serie D,1263,Y,group-d
+Italy,Serie D,1263,Y,group-e
+Italy,Serie D,1263,Y,group-f
+Italy,Serie D,1263,Y,group-g
+Italy,Serie D,1263,Y,group-h
+Italy,Serie D,1263,Y,group-i
+Italy,Super Cup,1626,N,
+Japan,Emperor Cup,1556,N,
+Japan,J1 League,1271,Y,
+Japan,J2 League,1274,Y,
+Kazakhstan,Cup,2124,N,
+Kazakhstan,Premier League,1276,Y,
+Kenya,FKF Premier League,1279,Y,
+Korea Republic,FA Cup,1782,N,
+Korea Republic,K League 1,1282,Y,regular-season
+Korea Republic,K League Cup,1585,N,
+Korea Republic,K3 League,1280,Y,
+Korea Republic,K3 League,1280,Y,regular-season
+Kyrgyzstan,Premier League,2709,N,
+Latvia,1. Liga,1286,Y,
+Latvia,Virsliga,1287,Y,
+Lithuania,1 Lyga,1291,Y,
+Lithuania,A Lyga,1293,Y,
+Malawi,Super League,2507,Y,
+Malaysia,Premier League,1301,Y,
+Malaysia,Super League,1302,Y,
+Mexico,Copa MX,2250,N,
+Mexico,Liga de Expansión MX,1309,Y,apertura
+Mexico,Liga de Expansión MX,1309,Y,clausura
+Mexico,Liga MX,1308,Y,apertura
+Mexico,Liga MX,1308,Y,clausura
+Moldova,Super Liga,1310,Y,championship-round
+Moldova,Super Liga,1310,Y,regular-season
+Montenegro,First League,1671,Y,
+Morocco,Botola Pro,1313,Y,
+Netherlands,Eerste Divisie,1323,Y,
+Netherlands,Eredivisie,1322,Y,regular-season
+Netherlands,KNVB Beker,1320,N,
+Netherlands,Super Cup,1636,N,
+Netherlands,Tweede Divisie,2725,Y,
+New Zealand,Premiership,1324,Y,regular-season
+Nicaragua,Primera Division,1325,N,
+Nigeria,NPFL,1326,Y,
+North Macedonia,First League,1300,Y,
+North Macedonia,Second League,1298,Y,
+Northern Ireland,Championship,1329,Y,promotion-group
+Northern Ireland,Championship,1329,Y,regular-season
+Northern Ireland,Championship,1329,Y,relegation-round
+Northern Ireland,Premiership,1331,Y,championship-round
+Northern Ireland,Premiership,1331,Y,regular-season
+Northern Ireland,Premiership,1331,Y,relegation-round
+Norway,1. Division,1563,Y,
+Norway,1. Division,1563,Y,regular-season
+Norway,2. Division,1564,Y,group-1
+Norway,2. Division,1564,Y,group-2
+Norway,Eliteserien,1335,Y,
+Norway,NM Cupen,1333,N,
+Norway,Super Cup,1753,N,
+Oceania,OFC Champions League,1704,Y,group-a
+Oceania,OFC Champions League,1704,Y,group-b
+Oceania,OFC Champions League,1704,Y,group-c
+Oceania,OFC Champions League,1704,Y,group-d
+Oceania,WC Qualification Oceania,1053,Y,group-a
+Oceania,WC Qualification Oceania,1053,Y,group-b
+Paraguay,Division Profesional,1338,Y,apertura
+Paraguay,Division Profesional,1338,Y,clausura
+Peru,Primera División,1342,Y,apertura
+Peru,Primera División,1342,Y,clausura
+Poland,Cup,1345,N,
+Poland,Ekstraklasa,1344,Y,
+Poland,I Liga,1348,Y,regular-season
+Portugal,Primeira Liga,1352,Y,
+Portugal,Taça da Liga,1911,N,
+Portugal,Taça de Portugal,1351,N,
+Romania,Cupa României,1862,N,
+Romania,Liga I,1361,Y,championship-round
+Romania,Liga I,1361,Y,regular-season
+Romania,Liga I,1361,Y,relegation-round
+Romania,Liga II,1359,Y,promotion-round
+Romania,Liga II,1359,Y,regular-season
+Romania,Liga II,1359,Y,relegation-round
+Romania,Liga III,1358,Y,group-1
+Romania,Liga III,1358,Y,group-10
+Romania,Liga III,1358,Y,group-2
+Romania,Liga III,1358,Y,group-3
+Romania,Liga III,1358,Y,group-4
+Romania,Liga III,1358,Y,group-5
+Romania,Liga III,1358,Y,group-6
+Romania,Liga III,1358,Y,group-7
+Romania,Liga III,1358,Y,group-8
+Romania,Liga III,1358,Y,group-9
+Romania,Supercupa,1623,N,
+Russia,Cup,1364,N,
+Russia,FNL,1363,Y,
+Russia,Premier League,1457,Y,
+Scotland,Challenge Cup,1374,N,
+Scotland,Championship,1373,Y,
+Scotland,FA Cup,1371,N,
+Scotland,League Cup,1372,N,
+Scotland,League One,1376,Y,
+Scotland,League Two,1375,Y,
+Scotland,Premiership,1370,Y,1st-phase
+Serbia,Prva Liga,1379,Y,championship-round
+Serbia,Prva Liga,1379,Y,regular-season
+Serbia,Prva Liga,1379,Y,relegation-round
+Serbia,Super Liga,1381,Y,championship-round
+Serbia,Super Liga,1381,Y,regular-season
+Serbia,Super Liga,1381,Y,relegation-round
+Slovakia,Cup,1385,N,
+Slovakia,Super Liga,1386,Y,championship-round
+Slovakia,Super Liga,1386,Y,regular-season
+Slovakia,Super Liga,1386,Y,relegation-round
+Slovenia,1. SNL,1390,Y,
+Slovenia,2. SNL,1387,Y,
+Slovenia,Cup,1388,N,
+South Africa,Cup,2355,N,
+South Africa,PSL,1394,Y,
+South America,CONMEBOL Libertadores,1040,Y,group-a
+South America,CONMEBOL Libertadores,1040,Y,group-b
+South America,CONMEBOL Libertadores,1040,Y,group-c
+South America,CONMEBOL Libertadores,1040,Y,group-d
+South America,CONMEBOL Libertadores,1040,Y,group-e
+South America,CONMEBOL Libertadores,1040,Y,group-f
+South America,CONMEBOL Libertadores,1040,Y,group-g
+South America,CONMEBOL Libertadores,1040,Y,group-h
+South America,CONMEBOL Sudamericana,1627,N,
+South America,Copa America,1039,Y,group-a
+South America,Copa America,1039,Y,group-b
+South America,WC Qualification South America,1054,Y,
+South America,WC Qualification South America,1054,Y,group-a
+Spain,Copa del Rey,1397,N,
+Spain,Primera División,1399,Y,
+Spain,Primera División RFEF,1396,Y,group-1
+Spain,Primera División RFEF,1396,Y,group-2
+Spain,Segunda División,1398,Y,regular-season
+Spain,Super Cup,1624,N,
+Spain,Tercera División RFEF,1395,Y,group-1
+Spain,Tercera División RFEF,1395,Y,group-10
+Spain,Tercera División RFEF,1395,Y,group-11
+Spain,Tercera División RFEF,1395,Y,group-12
+Spain,Tercera División RFEF,1395,Y,group-13
+Spain,Tercera División RFEF,1395,Y,group-14
+Spain,Tercera División RFEF,1395,Y,group-15
+Spain,Tercera División RFEF,1395,Y,group-16
+Spain,Tercera División RFEF,1395,Y,group-17
+Spain,Tercera División RFEF,1395,Y,group-18
+Spain,Tercera División RFEF,1395,Y,group-2
+Spain,Tercera División RFEF,1395,Y,group-3
+Spain,Tercera División RFEF,1395,Y,group-4
+Spain,Tercera División RFEF,1395,Y,group-5
+Spain,Tercera División RFEF,1395,Y,group-6
+Spain,Tercera División RFEF,1395,Y,group-7
+Spain,Tercera División RFEF,1395,Y,group-8
+Spain,Tercera División RFEF,1395,Y,group-9
+Sweden,Allsvenskan,1407,Y,
+Sweden,Damallsvenskan,1035,N,
+Sweden,Ettan,1570,Y,norra
+Sweden,Ettan,1570,Y,sodra
+Sweden,Superettan,1405,Y,
+Sweden,Svenska Cupen,1406,N,
+Switzerland,Challenge League,1412,Y,
+Switzerland,Schweizer Pokal,1409,N,
+Switzerland,Super League,1408,Y,
+Tanzania,Ligi kuu Bara,2479,Y,
+Thailand,Thai League 1,1415,Y,
+Tunisia,Ligue 1,1420,Y,championship-round
+Tunisia,Ligue 1,1420,Y,group-a
+Tunisia,Ligue 1,1420,Y,group-b
+Tunisia,Ligue 1,1420,Y,relegation-round
+Turkey,1. Lig,1422,Y,regular-season
+Turkey,2. Lig,1421,Y,beyaz
+Turkey,2. Lig,1421,Y,kirmizi
+Turkey,Cup,1423,Y,group-a
+Turkey,Cup,1423,Y,group-b
+Turkey,Cup,1423,Y,group-c
+Turkey,Cup,1423,Y,group-d
+Turkey,Cup,1423,Y,group-e
+Turkey,Cup,1423,Y,group-f
+Turkey,Cup,1423,Y,group-g
+Turkey,Cup,1423,Y,group-h
+Turkey,Süper Lig,1425,Y,
+Ukraine,Cup,1429,N,
+Ukraine,Persha Liga,1427,Y,championship-round
+Ukraine,Persha Liga,1427,Y,group-a
+Ukraine,Persha Liga,1427,Y,group-b
+Ukraine,Persha Liga,1427,Y,relegation-round
+Ukraine,Premier League,1428,Y,
+United Arab Emirates,Pro League,1431,Y,
+United Arab Emirates,League Cup,2922,N,
+Uruguay,Primera División,1441,Y,apertura
+Uruguay,Primera División,1441,Y,clausura
+USA,MLS - Eastern Conference,1440,Y,eastern-conference
+USA,MLS - Eastern Conference,1440,Y,western-conference
+USA,NASL,3008,Y,
+USA,US Open Cup,1573,N,
+USA,USL 2,1439,N,
+USA,USL Championship,1438,Y,eastern-conference
+USA,USL Championship,1438,Y,western-conference
+Venezuela,Primera División,1447,Y,
+Vietnam,Cup,1687,N,
+Vietnam,V.League 1,1449,Y,
+Vietnam,V.League 1,1449,Y,regular-season
+Wales,FAW Championship,1450,Y,north
+Wales,FAW Championship,1450,Y,south
+Wales,Premier League,1452,Y,championship-round
+Wales,Premier League,1452,Y,regular-season
+Wales,Premier League,1452,Y,relegation-round
+Wales,Welsh Cup,1574,N,
+Zambia,Super League,1455,Y,
+Zimbabwe,Premier Soccer League,1456,Y,

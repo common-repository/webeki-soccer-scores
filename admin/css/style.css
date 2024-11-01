@@ -1,0 +1,32 @@
+#sswidget-generator,#sswidget-customizer{
+    background-color:#e6e5e5;
+    padding:30px;
+    width:90%;
+}
+#columnAlternateColor,#fcfr,#rowAlternateColor{
+	display: none;
+}
+
+
+#sswidgetPreview table{
+	 font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: #000;
+}
+
+#sswidgetPreview td, #sswidgetPreview th {
+    border: 1px solid #000;
+    padding: 2px;
+}
+
+
+/*
+#sswidgetPreview tr:hover {background-color: #ddd;}*/
+
+#sswidgetPreview th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: #000;
+}
